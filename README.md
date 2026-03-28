@@ -39,22 +39,14 @@ Our methodology emphasizes data quality and model generalization across varying 
 
 ## 📂 Project Structure
 ```text
-lacuna-solar-detection/
-├── data/
-│   ├── images/                 # Raw aerial and satellite images
-│   ├── Train.csv               # Training labels and metadata
-│   ├── Test.csv                # Test metadata
-│   └── SampleSubmission.csv    # Submission format
-├── notebooks/
-│   ├── 01_EDA.ipynb            # Exploratory Data Analysis
-│   ├── 02_Preprocessing.ipynb  # Image augmentation and feature engineering
-│   └── 03_Modeling.ipynb       # Model training and evaluation
-├── src/
-│   ├── dataset.py              # Custom data loaders
-│   ├── models.py               # Model architectures and weights
-│   └── utils.py                # Helper functions and metrics
+Lacuna-Solar-Survey-Challenge-Zindi-Competition-/
+├── images/                     # Raw aerial and satellite images (extract from images.zip)
+├── Train.csv                   # Training labels and metadata
+├── Test.csv                    # Test metadata
+├── SampleSubmission.csv        # Submission format
+├── StarterNotebook_Lacuna.ipynb # Exploratory data analysis, modeling, and evaluation
 ├── README.md                   # Project documentation
-└── requirements.txt            # Dependency configuration
+└── requirements.txt            # Python dependencies
 ```
 
 ## 🛠️ How to Run the Project
