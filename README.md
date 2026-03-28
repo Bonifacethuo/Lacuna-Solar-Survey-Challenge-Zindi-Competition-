@@ -95,9 +95,9 @@ I specialize in building intelligent, scalable machine learning solutions that b
 
 ## 📬 Portfolio & Contact
 * **Portfolio**: [boniface-thuo-m-portifolio.vercel.app](https://boniface-thuo-m-portifolio.vercel.app/#about)
-* **GitHub**: [github.com/yourusername](#)
-* **LinkedIn**: [linkedin.com/in/yourusername](#)
-* **Email**: [your.email@example.com](mailto:your.email@example.com)
+* **GitHub**: [https://github.com/Bonifacethuo](#)
+* **LinkedIn**: [https://www.linkedin.com/in/boniface-thuo-52ab3816a/(#)
+* **Email**: [bonithuo@gmail.com]
 
 ## 🤝 Call to Action
 Open to exciting Data Science and ML engineering opportunities. Let's connect to discuss how my expertise in Machine Learning and Computer Vision can drive value for your team! Feel free to reach out via LinkedIn or Email.
